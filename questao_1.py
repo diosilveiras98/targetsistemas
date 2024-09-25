@@ -9,10 +9,12 @@ RESPOSTA: soma vale 91
 
 
 """
-
+#variaveis do questão
 indice = int(13)
 soma = 0
 ksoma = 0
+
+#laço while usado para fazer a soma até valor desejado
 while ksoma < indice:
     ksoma = ksoma + 1
     soma = soma + ksoma
